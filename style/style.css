@@ -48,13 +48,13 @@ a{
 
 .contenitore-team{
     width: 100%;
-    padding-left: 2rem;
     color: white;
 }
 
 .team{
-    width: 33%;
+    width: 32%;
     background-color: black;
+    margin: 0.4rem;
 }
 
 .foto-team{
