@@ -40,14 +40,18 @@ a{
 }
 
 .contenitore-team{
-    width: 90%;
+    width: 100%;
     background-color: blue;
     padding-left: 2rem;
     color: white;
 }
 
+.team{
+    width: 33%;
+}
+
 .foto-team{
-    width: 10%;
+    width: 20%;
 }
 
 .scheda-team{
@@ -61,4 +65,11 @@ a{
 div.team-lavoro, 
 .email-componente-team{
     padding: 0.2rem 0.2rem;
+}
+
+
+
+
+.float-left{
+    float: left;
 }
