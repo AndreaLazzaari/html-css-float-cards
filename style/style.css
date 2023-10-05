@@ -4,3 +4,27 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+main{
+    height: 500px;
+    background-color: red;
+    margin: 0 auto;
+    /* width: 500px; */
+    padding-top: 2rem; 
+    font-family: 'Fredoka', sans-serif;  
+}
+
+.composizione-team{
+    
+    width: 200px;
+}
+
+.paragrafo-principale{
+    padding: 2rem 3rem;
+    text-align: center;
+}
+
+#titolo-principale{
+    text-align: center;
+    
+}
