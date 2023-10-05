@@ -38,5 +38,23 @@ main{
 .contenitore-team{
     width: 90%;
     background-color: blue;
+    padding-left: 2rem;
+    color: white;
 }
 
+.foto-team{
+    width: 10%;
+}
+
+.nome-team{
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 0.5rem;
+}
+
+.team-lavoro{
+    vertical-align: top;
+    padding-left: 0.5rem;
+    display: inline-block;
+
+}
