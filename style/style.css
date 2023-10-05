@@ -9,18 +9,24 @@ main{
     height: 500px;
     background-color: red;
     margin: 0 auto;
-    /* width: 500px; */
+    width: 1000px;
     padding-top: 2rem; 
     font-family: 'Fredoka', sans-serif;  
 }
 
-.composizione-team{
-    
-    width: 200px;
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+.contenitore-p{
+    width: 95%;
 }
 
 .paragrafo-principale{
-    padding: 2rem 3rem;
+    padding: 2rem 2.5rem;
     text-align: center;
 }
 
@@ -28,3 +34,9 @@ main{
     text-align: center;
     
 }
+
+.contenitore-team{
+    width: 90%;
+    background-color: blue;
+}
+
